@@ -1,0 +1,6 @@
+.vs/
+*.suo
+Deployment/
+[Bb]in/
+[Oo]bj/
+*.user

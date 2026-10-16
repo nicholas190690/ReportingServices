@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="emailfrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">autoemail@rejosomanisindo.com</Value>
+    </Setting>
+    <Setting Name="emailpassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RejosoManis2020</Value>
+    </Setting>
+    <Setting Name="smtp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.rejosomanisindo.com</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
